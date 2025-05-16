@@ -180,12 +180,15 @@ h6.themeButton {
     background-position: 0% 0%;
     padding: .38em .25em .1em .45em;
     border-radius: .5em;
+        padding-right: 1.5em;
+
 }
 
 .vrelief {
     font-family: "Fira Sans", sans-serif;
     background-image: linear-gradient( 125deg, #8440c8cb, #180718, #140030, #29004d);
     padding: .28em .3em;
+    padding-right: 1.5em;
     border-radius: .5em;
 
 
