@@ -997,6 +997,35 @@ footer h4.theme4 {
     margin: 0;
 }
 
+.drapl {
+    font-family: 'Mona Sans';
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.drapl header {
+    color: white;
+    line-height: 85%;
+    text-shadow: #3F211F 1px 1px 3px, #310b1f 2px 2px 0, #929349 3px 3px 3px, #310b1f 4px 4px 0, #3F211F 5px 5px 3px;
+    font-weight: 900;
+    font-stretch: 125%;
+    transform: skew(-1deg);
+    margin: 0;
+    margin: 1em;
+    font-size: 2.11em;
+    margin: 0;
+    margin-bottom: .2em;
+}
+.drapl img{
+    width: 10em;
+    border-radius: .5em;
+    margin-bottom: -5.078em;
+    margin-left: auto;
+}
+
 .linuxguide, .compass {
     font-family: 'IBM Plex Serif', serif;
     width: 100%;
