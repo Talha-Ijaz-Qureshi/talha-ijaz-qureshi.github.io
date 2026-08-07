@@ -1019,7 +1019,8 @@ footer h4.theme4 {
     margin: 1em;
     font-size: 2.11em;
     margin: 0;
-    margin-bottom: .2em;
+    margin-bottom: 1em;
+    
     text-shadow: 1px 1px 0px black;
 }
 /* .drapl img{
@@ -1058,9 +1059,9 @@ transform-style: preserve-3d;
   width: 8em;
   height: 8em;
   perspective: 300px;
-      margin-bottom: -5.078em;
+      margin-bottom: -5.278em;
       margin-left: auto;
-
+margin-top: 1em;
 }
 .cube {
   width: 100%;
